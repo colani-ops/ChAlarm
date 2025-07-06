@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76125458688",
+    "project_id": "chalarm-d36eb",
+    "storage_bucket": "chalarm-d36eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76125458688:android:09c807a7b1188b711ce3e5",
+        "android_client_info": {
+          "package_name": "com.example.chalarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHFpOaAuS39zTEqofmNGpe_0CA4g4glMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
